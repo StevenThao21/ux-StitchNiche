@@ -2,12 +2,25 @@
 
 ## Introduction
 
-Stitch Niche is an application designed to assist in resizing and designing of crochet and knitting patterns. 
-!!! Describe the general problem that the project is trying to solve !!!
+Stitch Niche is an application designed to assist with resizing and designing crochet and knitting patterns. The insperation behind this product is to fill a gap in the market that has 
+(introduce project)
+(introduce report)
+-sprint planning
+-goals of this sprint
+-research methods
+
+In this first spirit we set out to accomplish
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+(initial research) When we began conducting research for Stitch Nitch we went through a few steps and  Our first step was to a bit of research about the background 
+  -stuff provided by Barbara/our own research about patterns
+
+(competitive analysis) Our first step was to perform a competitive analysis. [DEFINE COMPETITIVE ANALYSIS]. During this research we found 
+
+(heuristic evaluation [DEFINE HEURISTIC EVALUATION]
+
+Using the results of this research we began work on our initial designs and planning with our team creating a variety of artifacts 
 
 ## Findings
 
