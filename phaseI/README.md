@@ -2,6 +2,7 @@
 
 ## Introduction
 
+Stitch Niche is an application designed to assist in resizing and designing of crochet and knitting patterns. 
 !!! Describe the general problem that the project is trying to solve !!!
 
 ## Methods
