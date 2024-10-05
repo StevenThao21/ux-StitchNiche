@@ -4,9 +4,8 @@ Stitch Niche is an application designed to assist with resizing and designing cr
 
 ## UX Team Members
 
-* **Valarie Mello(!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **Steven Thao(!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **Valarie Mello(https://github.com/UsabilityEngineering/ux-journal-ValarieMello)** - Competitive Analysis, Heuristic Evaluation, User Stories, Personas
+* **Steven Thao(!!!URL to Person B's published portfolio!!!)** - Sketches (add more)
 
 # User-Centered Design Artifacts
 
@@ -19,10 +18,32 @@ Stitch Niche is an application designed to assist with resizing and designing cr
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+This first report covers the research methods and results from the UX team’s contributions to the first sprint in the Development of Stitch Niche. This first sprint focuses on the user being able to resize a rectangular pattern for both crochet and knitting.
+
+Three Main Goals of MVP:
+* Create/Resize rectangle knitting pattern.
+* Create/Resize rectangle crochet pattern.
+* Have a help feature/guide for the users of Stitch Niche.
+
+Competitive Analysis: 
+* The UX team researched **5 competitors**.
+* **None had all the desired features** of stitch niche.
+* Determined there is a **high need** for a way to resize crochet/knitting patterns.
+
+Heuristic Evaluation:
+* Analyzed one of the competitors from the competitive analysis, Stitch Fiddle.
+* Identified **strengths and weaknesses** in design conventions
+* Analysis revealed that there is a **strong need** for a **simple UI** that is easy to follow and learn.
+
+User Stories and Personas:
+* Developed personas about the potential users of Stitch Niche.
+* Created stories that helped identify needed/desired features in the application.
+
+Sketches:
+* Designed sketches for the MVP of the spirit.
+* Designs **incorporated the 3 main goals of the MVP**.
+* Sketches **can be built upon** to incorporate later features as development progresses.
+
 
 [Full phase I report](phaseI/)
 
