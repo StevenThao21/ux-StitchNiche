@@ -1,6 +1,6 @@
 # Stitch Niche
 
-Stitch Niche is an application designed to assist with resizing and designing crochet and knitting patterns. Stitch Niche will help those of all skill levels be able to customize their patterns to fit their needs. Stitch niche is unique because it tackles the difficult task of resizing patterns that often requires a great deal of time and effort to do the calculations. This application hopes to make working on the projects you want to make a little easier!
+Stitch Niche is an application designed to assist with resizing and designing crochet and knitting patterns. Stitch Niche will help those of all skill levels be able to customize their patterns to fit their needs. Stitch Niche is unique because it tackles the difficult task of resizing patterns that often requires a great deal of time and effort to do the calculations. This application hopes to make working on the projects you want to make a little easier!
 
 ## UX Team Members
 
