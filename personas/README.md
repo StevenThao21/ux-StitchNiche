@@ -1,6 +1,6 @@
 # Personas
 
-**Aaron**
+# Aaron
 
 ![Aaron](Aaron.png)
 
@@ -25,7 +25,7 @@ Goals:
 * Share his designs and patterns with people like himself
 * Work at home and on the go
 
-**Lily**
+# Lily
 
 ![lilh](lily.png)
 
