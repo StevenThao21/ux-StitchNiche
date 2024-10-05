@@ -4,8 +4,8 @@ Stitch Niche is an application designed to assist with resizing and designing cr
 
 ## UX Team Members
 
-* **Valarie Mello(https://github.com/UsabilityEngineering/ux-journal-ValarieMello)** - Competitive Analysis, Heuristic Evaluation, User Stories, Personas
-* **Steven Thao(!!!URL to Person B's published portfolio!!!)** - Sketches (add more)
+* **Valarie Mello(https://github.com/UsabilityEngineering/ux-journal-ValarieMello)** - Competitive Analysis, Heuristic Evaluation, Scenarios, and Personas
+* **Steven Thao(!!!URL to Person B's published portfolio!!!)** - Sketches, Competitive Analysis, Heuristic Evaluation, Scenarios, and Personas
 
 # User-Centered Design Artifacts
 
