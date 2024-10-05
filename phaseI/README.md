@@ -13,7 +13,7 @@ When the Stitch Niche team first began work on the project we began by first tak
 
 When we began work on our first official research task we conducted a Competitive Analysis on five different applications for Stitch Niche. Competitive analysis is a research tactic that takes an assessment of the strengths and weaknesses of current/potential competitors for the application you plan to develop. Each of the competitors the UX team  looked at were judged on five different categories: Strengths, Weaknesses, Quality, Price, and Platform. This was then compiled into a table that displayed each of the competitors side by side. This can be seen in the table below.
 
-[add table here]
+![table](Compet.png)
 
 The second form of research we did was a heuristic evaluation of one specific competitor for Stitch Niche where we decided on Stitch Fiddle. The UX team chose to examine Stitch Fiddle due to its easy access, but the also plethora of features and its similarity to desired features for Stitch Niche. A heuristic evaluation is a method of determining usability problems in an application by comparing it to a strict set of guidelines. We perform this evaluation to avoid these issues within our project and find ways to improve.
 
