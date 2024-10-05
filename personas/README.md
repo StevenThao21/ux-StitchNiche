@@ -2,7 +2,7 @@
 
 **Aaron**
 
-{add image here}
+![Aaron](Aaron.png)
 
 Age 28-year-old male living in Seattle WA
 
@@ -27,7 +27,7 @@ Goals:
 
 **Lily**
 
-{add image here}
+![lilh](lily.png)
 
 Age: 26 
 
