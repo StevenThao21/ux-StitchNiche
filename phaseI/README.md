@@ -36,12 +36,15 @@ Using the results of this research we began work on our initial designs and plan
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+In our competitive analysis, we found that many current applications catering to knitting and crochet users often lack user-friendly tools for resizing patterns. Many applications also lack clear skill-level indications, making it difficult for users to find patterns suited to their abilities.
 
+The heuristic evaluation of Stitch Fiddle highlighted both strengths and weaknesses. It scored 7/10 for visibility of system status, providing quick feedback, and 7/10 for matching the real world, as it works as intended for most tasks. However, it scored only 5/10 for user control and freedom. while it's easy to undo a mistake, users still have limited flexibility overall. The app earned 8/10 for consistency and standards, making it straightforward to use, and 7/10 for error prevention. One of its great features was recognition rather than recall, which scored 9/10 because of easy-to-understand icons like checkboxes for undoing changes. On the downside, flexibility and efficiency of use only scored 6/10 because the interface can feel restrictive, especially for new users. The aesthetic and minimalist design also scored 6/10. It’s functional but visually lacking in the looks. 
+
+Personas and scenarios helped us understand that most Stitch Niche users will likely prioritize simplicity and ease of use over feature-heavy interfaces. Users want intuitive designs, quick pattern discovery, and easy-to-use customization tools.
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+In conclusion, Stitch Niche should focus more on providing user-friendly tools for pattern resizing, as this feature is lacking in existing knitting/crochet applications. Our competitive analysis shows that most platforms don’t offer intuitive customization options, while our heuristic evaluation of Stitch Fiddle highlights the need for a simpler, easy-to-navigate interface to avoid overwhelming users, especially beginners. Additionally, personas and scenarios confirmed that users value simplicity, quick pattern discovery, and clear skill-level guidance. Stitch Niche will prioritize these areas to create a more accessible and enjoyable experience for all skill levels.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Some caveats our UX team consists of individuals with limited experience in this field of knitting and crochet, which may influence the of the evaluations. Finally, due to the wide range of potential users, from beginners to advanced crafters, it was difficult to pinpoint specific needs across all demographics. 
