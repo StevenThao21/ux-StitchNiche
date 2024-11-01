@@ -31,6 +31,15 @@ Once finished  evaluators then submitted the completed documentation to the Stit
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
+Demo Feedback:
+* Autofilled boxes for a standard scarf or blanket pattern
+* Add description of what the function will do.
+* Could you calculate how much yarn you would need?
+* Standard gauges for different types of yarn,
+* Visual Output, rather than just numbers
+* Centimeters or inches,
+* Don’t know the variables met, more information, illustration (Hover box with description of variables?)Tool Tip
+
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
