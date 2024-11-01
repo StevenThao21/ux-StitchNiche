@@ -2,7 +2,14 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Stitch Niche is an application designed to assist with resizing and designing crochet and knitting patterns. Stitch Niche will help those of all skill levels be able to customize their patterns to fit their needs. Stitch niche is unique because it tackles the difficult task of resizing patterns that often requires a great deal of time and effort to do the calculations. This application hopes to make working on the projects you want to make a little easier!
+
+In the previous sprint, the Stitch Niche team focused on implementing the ability to generate rectangular patterns for either crochet or knitting. The UX team worked to understand the target audience and what goals the product should meet.
+
+In the second spirit, the software engineering team worked to implement new features that would make Stitch Niche a more robust application. The UX team worked to increase the fidelity of designs and create a solid understanding of what users expected and how they would use and interact with Stitch Niche
+
+Below the UX team has outlined the research and outcomes of their contributions during the second spirit.
+
 
 ## Methods
 
