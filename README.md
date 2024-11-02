@@ -73,9 +73,9 @@ Informal Feedback:
 * Wireframes were clear and led to **successful walkthroughs**
 
 Wireframes:
-Visual diagram that outlines the structure and layout of the application.
-Visualize the flow of the application.
-Used to perform cognitive walkthrough.
+* Visual diagram that outlines the structure and layout of the application.
+* Visualize the flow of the application.
+* Were used sed to perform cognitive walkthrough.
 
 
 
