@@ -29,7 +29,7 @@ Once finished  evaluators then submitted the completed documentation to the Stit
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+The cognitive walkthrough results enabled the Stitch Niche UX team to identify several sources of confusion, missing functionalities, and potential usability issues within the application. UX evaluators, following structured personas and scenarios, provided key feedback on user interactions, emphasizing challenges novice users might face. While the wireframe prototype showed usability for more experienced users, it proved less intuitive for those new to crafting, who encountered difficulties with basic tasks. This feedback highlighted the need for more beginner-friendly design elements to improve accessibility and ease of use for inexperienced users.
 
 Demo Feedback:
 * Autofilled boxes for a standard scarf or blanket pattern
@@ -42,8 +42,8 @@ Demo Feedback:
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on informal feedback from the demo and cognitive walkthroughs, the Stitch Niche UX team updated the wireframes to prioritize simplicity and ease of navigation, addressing several issues identified by evaluators. The layout was redesigned to use features, like the “Generate” button, more accessible, aligning with our target audience of beginner knitters and casual crafters who value intuitive design. Persona and scenario analysis helped us understand specific user needs, such as resizing patterns or inputting custom measurements, guiding us to create features that better serve Stitch Niche’s user base. By evaluating the interface from a user’s perspective, the cognitive walkthrough revealed potential errors, such as unclear navigation flow and insufficient feedback, which informed changes to improve user experience. 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+There are several limitations to consider in our findings. First, our Target User Base includes beginner knitters, casual crafters, and inexperienced users, but most of the feedback we received came from participants with computer science backgrounds. This means the feedback may not fully reflect the needs of Stitch Niche’s intended audience. Additionally, a Significant Portion of the Target Audience was missing from the study, especially beginner and casual users, which limits our understanding of how well the design meets their needs. The Cognitive Walkthrough was performed by UX students rather than experienced professionals, which may have impacted the depth of the insights gained. Lastly, the wireframes used were not fully developed and were missing key elements, like pop-up dialogues, limiting the ability to evaluate the app’s functionality 
