@@ -51,6 +51,8 @@ Sketches:
 
 **Executive Summary**
 
+This second report covers the research methods and results from the UX team’s contributions to the second sprint in the Development of Stitch Niche. This second sprint focuses on implementing additional pattern shapes and features to the application.
+
 Three Main Goals of MVP:
 * Angled patterns for knitting and crochet
 * Ball and circular pattern for crochet
