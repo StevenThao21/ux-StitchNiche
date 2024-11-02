@@ -72,6 +72,12 @@ Informal Feedback:
 * Wireframes were used as the basis for the walkthrough.
 * Wireframes were clear and led to **successful walkthroughs**
 
+Wireframes:
+Visual diagram that outlines the structure and layout of the application.
+Visualize the flow of the application.
+Used to perform cognitive walkthrough.
+
+
 
 
 [Full phase II report](phaseII/)
