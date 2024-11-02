@@ -54,25 +54,24 @@ Sketches:
 This second report covers the research methods and results from the UX team’s contributions to the second sprint in the Development of Stitch Niche. This second sprint focuses on implementing additional pattern shapes and features to the application.
 
 Three Main Goals of MVP:
-* Angled patterns for knitting and crochet
-* Ball and circular pattern for crochet
-* Pattern visualization
+* Angled patterns for knitting and crochet.
+* Ball and circular pattern for crochet.
+* Pattern visualization.
 * Carryover goal: Have a help feature/guide for the users of Stitch Niche.
 
 Informal Feedback:
-* Software Engineering team performed a demonstration of Stitch Niche application
-* Demo was performed for Software Engineering class (n = 65)
-* Provided feedback on
-* Emphasis on needing a help feature and proper labeling
+* Software Engineering team performed a demonstration of Stitch Niche application.
+* Demo was performed for Software Engineering class (n = 65).
+* Provided feedback to the software engineering team.
+* Emphasis on **needing a help feature and proper labeling**.
 
 ​​Cognitive Walkthrough:
-* External evaluation performed by 3 other UX classmates 
-* Make a folder for the walkthrough pdfs on main page
-* Was based on past personas and scenarios
-* Wireframes were used as the basis 
+* External evaluation was performed by 3 other UX classmates.
+* Evaluate if users can accomplish goals.
+* Was based on personas and scenarios created in Phase 1.
+* Wireframes were used as the basis for the walkthrough.
+* Wireframes were clear and led to **successful walkthroughs**
 
-
-Wireframes:
 
 
 [Full phase II report](phaseII/)
