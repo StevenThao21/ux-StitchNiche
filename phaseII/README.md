@@ -42,7 +42,7 @@ Demo Feedback:
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on informal feedback from the demo and cognitive walkthroughs, the Stitch Niche UX team updated the wireframes to prioritize simplicity and ease of navigation, addressing several issues identified by evaluators. The layout was redesigned to use features, like the “Generate” button, more accessible, aligning with our target audience of beginner knitters and casual crafters who value intuitive design. Persona and scenario analysis helped us understand specific user needs, such as resizing patterns or inputting custom measurements, guiding us to create features that better serve Stitch Niche’s user base. By evaluating the interface from a user’s perspective, the cognitive walkthrough revealed potential errors, such as unclear navigation flow and insufficient feedback, which informed changes to improve user experience. 
 
 ## Caveats
 
