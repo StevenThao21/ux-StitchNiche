@@ -51,10 +51,27 @@ Sketches:
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Three Main Goals of MVP:
+* Angled patterns for knitting and crochet
+* Ball and circular pattern for crochet
+* Pattern visualization
+* Carryover goal: Have a help feature/guide for the users of Stitch Niche.
+
+Informal Feedback:
+* Software Engineering team performed a demonstration of Stitch Niche application
+* Demo was performed for Software Engineering class (n = 65)
+* Provided feedback on
+* Emphasis on needing a help feature and proper labeling
+
+​​Cognitive Walkthrough:
+* External evaluation performed by 3 other UX classmates 
+* Make a folder for the walkthrough pdfs on main page
+* Was based on past personas and scenarios
+* Wireframes were used as the basis 
+
+
+Wireframes:
+
 
 [Full phase II report](phaseII/)
 
