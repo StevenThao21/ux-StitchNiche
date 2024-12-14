@@ -2,7 +2,24 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Stitch Niche is an application designed to assist with resizing and designing crochet and knitting patterns. Stitch Niche will help those of all skill levels be able to customize their patterns to fit their needs. Stitch Niche is unique because it tackles the difficult task of resizing patterns that often requires a great deal of time and effort to do the calculations. This application hopes to make working on the projects you want to make a little easier!
+
+In this final sprint, the UX team and dev teams of Stitch Niche separated to work independently on different aspects of the project. For the UX team this sprint was dedicated to creating a working prototype and running a User Test of that prototype's functionality. In order to conduct this test there were a few tasks and artifacts that needed to be created prior to the test which have been described below.
+
+**Mock-Ups** 
+
+Mockups were created following the design of the wireframes from the previous sprint. These were made to serve as a guide for creating the prototype. This design was later scrapped following the creation of the prototype for something more aesthetically pleasing and user-friendly.
+
+**Prototype**
+
+The prototype was created to be used as a sample of how the Stitch Niche application would function for its user base. further details of the prototype’s functionality and uses are described below in the methods section.
+
+**Documentation**
+
+The third set of artifacts created during this sprint were the **Protocol** and the **informed consent form**. These documents were used during the User Test to record notes as well as a formal acknowledgment from the User Test participants were aware of what their contribution entailed and their rights. Further details about this documentation is described in the methods section below.
+
+Below the UX team has outlined the research and outcomes of their contributions during the third and final spirit.
+!
 
 ## Methods
 
